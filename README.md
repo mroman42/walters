@@ -30,9 +30,12 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[Cartesian Bicategories II](https://raw.githubusercontent.com/mroman42/walters/main/publications/2007-cartesian-bicategories-ii.pdf?token=GHSAT0AAAAAAB3V5M3ZX5MCBBBWAZ73TSR6ZCUZGSA)|Theory and Applications of Categories|2007|
 |[A universal property of the monoidal 2-category of cospans of finite linear orders and surjections](https://raw.githubusercontent.com/mroman42/walters/main/publications/2007-a-universal-property-of-the-monoidal-2-category-of-cospans-of-finite-linear-orders-and-surjections.pdf?token=GHSAT0AAAAAAB3V5M3YAA6H4K2PUWEWF5WCZCUZQUA)|Preprint|2007|
 |[Frobenius Objects in Cartesian Bicategories](https://raw.githubusercontent.com/mroman42/walters/main/publications/2007-frobenius-objects-in-cartesian-bicategories.pdf?token=GHSAT0AAAAAAB3V5M3ZFQGF7UAIYMWNM2CAZCUZSCQ)|Preprint|2007|
-|[On Partita Doppia]|Preprint|2008|
+|[On Partita Doppia](https://raw.githubusercontent.com/mroman42/walters/main/publications/2008-on-partita-doppia.pdf?token=GHSAT0AAAAAAB3V5M3YKV7TIALOW3I63SSEZCUZTHA)|Preprint|2008|
 |[The Compositional Construction of Markov Processes](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-the-compositional-construction-of-markov-processes.pdf?token=GHSAT0AAAAAAB3V5M3YFJYKY7BFBV3SBRPIZCUZIRA)|Preprint|2009|
+|[An Algebra of Automata which Includes Both Classical and Quantum Entities](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-an-algebra-of-automata-which-includes-both-classical-and-quantum-entities.pdf?token=GHSAT0AAAAAAB3V5M3YQK46BGERNXQRPTK6ZCUZTNQ)|Preprint|2009|
+|[The Parallel Composition of Processes](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-the-parallel-composition-of-processes.pdf?token=GHSAT0AAAAAAB3V5M3ZHUTRE26YCDRNWZGWZCUZUKQ)|Preprint|2009|
 |[The Compositional Construction of Markov Processes II](https://raw.githubusercontent.com/mroman42/walters/main/publications/2018p-the-compositional-construction-of-markov-processes-ii.pdf?token=GHSAT0AAAAAAB3V5M3Z3X7EMFXYHAMVDMAMZCUZJBQ)|Preprint|2010|
+|[Bicategories of Spans as Cartesian Bicategories](https://raw.githubusercontent.com/mroman42/walters/main/publications/2010-bicategories-of-spans-as-cartesian-bicategories.pdf?token=GHSAT0AAAAAAB3V5M3Y4AEHHDLPNWUJY64CZCUZVGA)|Preprint|2010|
 |Working with Aurelio|Il Protagora|2013|
 
 The [University of Sydney](https://www.maths.usyd.edu.au/ut/pub-seek.py?sau=Walters+RFC&pp=3) lists some of the works of R. F. C. Walters.
