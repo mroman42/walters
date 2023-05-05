@@ -36,6 +36,9 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[The Parallel Composition of Processes](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-the-parallel-composition-of-processes.pdf?token=GHSAT0AAAAAAB3V5M3ZHUTRE26YCDRNWZGWZCUZUKQ)|Preprint|2009|
 |[The Compositional Construction of Markov Processes II](https://raw.githubusercontent.com/mroman42/walters/main/publications/2018p-the-compositional-construction-of-markov-processes-ii.pdf?token=GHSAT0AAAAAAB3V5M3Z3X7EMFXYHAMVDMAMZCUZJBQ)|Preprint|2010|
 |[Bicategories of Spans as Cartesian Bicategories](https://raw.githubusercontent.com/mroman42/walters/main/publications/2010-bicategories-of-spans-as-cartesian-bicategories.pdf?token=GHSAT0AAAAAAB3V5M3Y4AEHHDLPNWUJY64CZCUZVGA)|Preprint|2010|
+|[Tangled Circuits](https://raw.githubusercontent.com/mroman42/walters/main/publications/2011-tangled-circuits.pdf?token=GHSAT0AAAAAAB3V5M3Y7CBH4SAVVOOOXMBIZCUZWEQ)|Preprint|2011|
+|[Blocked Braid Groups](https://raw.githubusercontent.com/mroman42/walters/main/publications/2013-blocked-braid-groups.pdf?token=GHSAT0AAAAAAB3V5M3ZL5Q5DKBTO5FJTFROZCUZWSQ)|Preprint|2013|
+|[Racks and Blocked Braids](https://raw.githubusercontent.com/mroman42/walters/main/publications/2013-racks-and-blocked-braids.pdf?token=GHSAT0AAAAAAB3V5M3Z3LFCZI7AMGHFCMGWZCUZXBA)|Preprint|2013|
 |Working with Aurelio|Il Protagora|2013|
 
 The [University of Sydney](https://www.maths.usyd.edu.au/ut/pub-seek.py?sau=Walters+RFC&pp=3) lists some of the works of R. F. C. Walters.
