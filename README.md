@@ -28,6 +28,7 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[The Compact Closed Bicategory of Left Adjoints](https://raw.githubusercontent.com/mroman42/walters/main/publications/1999-the-compact-closed-bicategory-of-left-adjoints.pdf?token=GHSAT0AAAAAAB3V5M3Z5M76PXTW5IDW6TEUZCUZD3Q)|Math. Proc. Camb. Phil. Soc.|1999|
 |[Feedback, Trace and Fixed-Point Semantics](https://raw.githubusercontent.com/mroman42/walters/main/publications/2002-feedback-trace-and-fixed-point-semantics.pdf?token=GHSAT0AAAAAAB3V5M3ZH34YKTFK6PQDAVWMZCUZFZQ)|Theoretical Informatics and Applications|2002|
 |[Cartesian Bicategories II](https://raw.githubusercontent.com/mroman42/walters/main/publications/2007-cartesian-bicategories-ii.pdf?token=GHSAT0AAAAAAB3V5M3ZX5MCBBBWAZ73TSR6ZCUZGSA)|Theory and Applications of Categories|2007|
+|[On Partita Doppia]|Preprint|2008|
 |[The Compositional Construction of Markov Processes](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-the-compositional-construction-of-markov-processes.pdf?token=GHSAT0AAAAAAB3V5M3YFJYKY7BFBV3SBRPIZCUZIRA)|Preprint|2009|
 |[The Compositional Construction of Markov Processes II](https://raw.githubusercontent.com/mroman42/walters/main/publications/2018p-the-compositional-construction-of-markov-processes-ii.pdf?token=GHSAT0AAAAAAB3V5M3Z3X7EMFXYHAMVDMAMZCUZJBQ)|Preprint|2010|
 |Working with Aurelio|Il Protagora|2013|
