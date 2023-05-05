@@ -12,6 +12,9 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[An Axiomatics for Bicategories of Modules](https://raw.githubusercontent.com/mroman42/walters/main/publications/1985-an-axiomatics-for-bicategories-of-modules.pdf?token=GHSAT0AAAAAAB3V5M3Z23PL7IKCHKV2U3WEZCUYPJQ)|Journal of Pure and Applied Algebra|1987|
 |[A Note on Context-Free Languages](https://raw.githubusercontent.com/mroman42/walters/main/publications/1988-a-note-on-context-free-languages.pdf?token=GHSAT0AAAAAAB3V5M3ZK32ZIQJRIO3OD2VIZCUYRYA)|Journal of Pure and Applied Algebra|1989|
 |[The Free Category with Products on a Multigraph](https://github.com/mroman42/walters/blob/main/publications/1988-the-free-category-with-products-on-a-multigraph.pdf)|Journal of Pure and Applied Algebra|1989|
+|[Data Types in Distributive Categories](https://raw.githubusercontent.com/mroman42/walters/main/publications/1989-data-types-in-distributive-categories.pdf?token=GHSAT0AAAAAAB3V5M3ZDXTZH5X4EBPTUXQGZCUYUIA)|Bull. Austral. Math. Soc.|1989|
+|[The Calculus of Ends over a Base Topos](https://raw.githubusercontent.com/mroman42/walters/main/publications/1989-the-calculus-of-ends-over-a-base-topos.pdf?token=GHSAT0AAAAAAB3V5M3ZGKAGD56PPLYT3ZO6ZCUYU4Q)|Journal of Pure and Applied Algebra|1989|
+|[Algebra Objects and Algebra Families for Finite Limit Theories](https://raw.githubusercontent.com/mroman42/walters/main/publications/1990-algebra-objects-and-algebra-families-for-finite-limit-theories.pdf?token=GHSAT0AAAAAAB3V5M3YY4IVFVKH73SWSGAWZCUYVTQ)|Journal of Pure and Applied Algebra|1992|
 |Categories and Computer Science|Cambridge University Press|1992|
 |Working with Aurelio|Il Protagora|2013|
 
