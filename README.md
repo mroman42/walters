@@ -1,5 +1,6 @@
 # The collected works of R. F. C. Walters
 
+These are collected works of R. F. C. Walters (Bob Walters).
 Please inform us of any inaccuracies or missing works by either email or opening an "issue" on the GitHub repository.
 
 
@@ -28,10 +29,20 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[The Compact Closed Bicategory of Left Adjoints](https://raw.githubusercontent.com/mroman42/walters/main/publications/1999-the-compact-closed-bicategory-of-left-adjoints.pdf?token=GHSAT0AAAAAAB3V5M3Z5M76PXTW5IDW6TEUZCUZD3Q)|Math. Proc. Camb. Phil. Soc.|1999|
 |[Feedback, Trace and Fixed-Point Semantics](https://raw.githubusercontent.com/mroman42/walters/main/publications/2002-feedback-trace-and-fixed-point-semantics.pdf?token=GHSAT0AAAAAAB3V5M3ZH34YKTFK6PQDAVWMZCUZFZQ)|Theoretical Informatics and Applications|2002|
 |[Cartesian Bicategories II](https://raw.githubusercontent.com/mroman42/walters/main/publications/2007-cartesian-bicategories-ii.pdf?token=GHSAT0AAAAAAB3V5M3ZX5MCBBBWAZ73TSR6ZCUZGSA)|Theory and Applications of Categories|2007|
+|[A universal property of the monoidal 2-category of cospans of finite linear orders and surjections](https://raw.githubusercontent.com/mroman42/walters/main/publications/2007-a-universal-property-of-the-monoidal-2-category-of-cospans-of-finite-linear-orders-and-surjections.pdf?token=GHSAT0AAAAAAB3V5M3YAA6H4K2PUWEWF5WCZCUZQUA)|Preprint|2007|
+|[Frobenius Objects in Cartesian Bicategories](https://raw.githubusercontent.com/mroman42/walters/main/publications/2007-frobenius-objects-in-cartesian-bicategories.pdf?token=GHSAT0AAAAAAB3V5M3ZFQGF7UAIYMWNM2CAZCUZSCQ)|Preprint|2007|
+|[On Partita Doppia](https://raw.githubusercontent.com/mroman42/walters/main/publications/2008-on-partita-doppia.pdf?token=GHSAT0AAAAAAB3V5M3YKV7TIALOW3I63SSEZCUZTHA)|Preprint|2008|
 |[The Compositional Construction of Markov Processes](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-the-compositional-construction-of-markov-processes.pdf?token=GHSAT0AAAAAAB3V5M3YFJYKY7BFBV3SBRPIZCUZIRA)|Preprint|2009|
+|[An Algebra of Automata which Includes Both Classical and Quantum Entities](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-an-algebra-of-automata-which-includes-both-classical-and-quantum-entities.pdf?token=GHSAT0AAAAAAB3V5M3YQK46BGERNXQRPTK6ZCUZTNQ)|Preprint|2009|
+|[The Parallel Composition of Processes](https://raw.githubusercontent.com/mroman42/walters/main/publications/2009-the-parallel-composition-of-processes.pdf?token=GHSAT0AAAAAAB3V5M3ZHUTRE26YCDRNWZGWZCUZUKQ)|Preprint|2009|
 |[The Compositional Construction of Markov Processes II](https://raw.githubusercontent.com/mroman42/walters/main/publications/2018p-the-compositional-construction-of-markov-processes-ii.pdf?token=GHSAT0AAAAAAB3V5M3Z3X7EMFXYHAMVDMAMZCUZJBQ)|Preprint|2010|
+|[Bicategories of Spans as Cartesian Bicategories](https://raw.githubusercontent.com/mroman42/walters/main/publications/2010-bicategories-of-spans-as-cartesian-bicategories.pdf?token=GHSAT0AAAAAAB3V5M3Y4AEHHDLPNWUJY64CZCUZVGA)|Preprint|2010|
+|[Tangled Circuits](https://raw.githubusercontent.com/mroman42/walters/main/publications/2011-tangled-circuits.pdf?token=GHSAT0AAAAAAB3V5M3Y7CBH4SAVVOOOXMBIZCUZWEQ)|Preprint|2011|
+|[Blocked Braid Groups](https://raw.githubusercontent.com/mroman42/walters/main/publications/2013-blocked-braid-groups.pdf?token=GHSAT0AAAAAAB3V5M3ZL5Q5DKBTO5FJTFROZCUZWSQ)|Preprint|2013|
+|[Racks and Blocked Braids](https://raw.githubusercontent.com/mroman42/walters/main/publications/2013-racks-and-blocked-braids.pdf?token=GHSAT0AAAAAAB3V5M3Z3LFCZI7AMGHFCMGWZCUZXBA)|Preprint|2013|
 |Working with Aurelio|Il Protagora|2013|
 
 The [University of Sydney](https://www.maths.usyd.edu.au/ut/pub-seek.py?sau=Walters+RFC&pp=3) lists some of the works of R. F. C. Walters.
 The nLab has an entry for [Bob Walters](https://ncatlab.org/nlab/show/Bob+Walters).
+[ArXiv](https://arxiv.org/search/?searchtype=author&query=Walters%2C+R+F+C) lists some of the works of R. F. C. Walters.
 This repository is based on a similar project by Matt Earnshaw [collecting the works of F. W. Lawvere](https://github.com/mattearnshaw/lawvere/).
