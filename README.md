@@ -1,5 +1,6 @@
 # The collected works of R. F. C. Walters
 
+These are collected works of R. F. C. Walters (Bob Walters).
 Please inform us of any inaccuracies or missing works by either email or opening an "issue" on the GitHub repository.
 
 
@@ -43,4 +44,5 @@ Please inform us of any inaccuracies or missing works by either email or opening
 
 The [University of Sydney](https://www.maths.usyd.edu.au/ut/pub-seek.py?sau=Walters+RFC&pp=3) lists some of the works of R. F. C. Walters.
 The nLab has an entry for [Bob Walters](https://ncatlab.org/nlab/show/Bob+Walters).
+[ArXiv](https://arxiv.org/search/?searchtype=author&query=Walters%2C+R+F+C) lists some of the works of R. F. C. Walters.
 This repository is based on a similar project by Matt Earnshaw [collecting the works of F. W. Lawvere](https://github.com/mattearnshaw/lawvere/).
