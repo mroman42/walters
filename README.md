@@ -15,6 +15,7 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[Data Types in Distributive Categories](https://raw.githubusercontent.com/mroman42/walters/main/publications/1989-data-types-in-distributive-categories.pdf?token=GHSAT0AAAAAAB3V5M3ZDXTZH5X4EBPTUXQGZCUYUIA)|Bull. Austral. Math. Soc.|1989|
 |[The Calculus of Ends over a Base Topos](https://raw.githubusercontent.com/mroman42/walters/main/publications/1989-the-calculus-of-ends-over-a-base-topos.pdf?token=GHSAT0AAAAAAB3V5M3ZGKAGD56PPLYT3ZO6ZCUYU4Q)|Journal of Pure and Applied Algebra|1989|
 |[Algebra Objects and Algebra Families for Finite Limit Theories](https://raw.githubusercontent.com/mroman42/walters/main/publications/1990-algebra-objects-and-algebra-families-for-finite-limit-theories.pdf?token=GHSAT0AAAAAAB3V5M3YY4IVFVKH73SWSGAWZCUYVTQ)|Journal of Pure and Applied Algebra|1992|
+|[The Duality Between Flow Charts and Circuits](https://raw.githubusercontent.com/mroman42/walters/main/publications/1990-the-duality-between-flow-chartes-and-circuits.pdf?token=GHSAT0AAAAAAB3V5M3YIHM5BLIII5CZMNWEZCUYWOA)|Bull. Austral. Math. Soc.|1990|
 |Categories and Computer Science|Cambridge University Press|1992|
 |Working with Aurelio|Il Protagora|2013|
 
