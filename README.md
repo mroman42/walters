@@ -6,12 +6,14 @@ Please inform us of any inaccuracies or missing works by either email or opening
 
 | Title |Source| Year |
 |:------|:-----|:----:|
+|[Alternative Derivation of Some Regular Continued Fractions](https://github.com/mroman42/walters/blob/main/publications/1968-alternative-derivation-of-some-regular-continued-fractions.pdf)|Journal of the Australian Mathematical Society|1968|
 |[A Categorical Approach to Universal Algebra (PhD Thesis)](https://github.com/mroman42/walters/blob/main/publications/1970-a-categorical-approach-to-universal-algebra.pdf)|Australian National University|1970|
 |[Yoneda Structures on 2-categories](https://github.com/mroman42/walters/blob/main/publications/1978-yoneda-structures-on-2-categories.pdf)|Journal of Algebra|1978|
 |[Sheaves and Cauchy-Complete Categories](https://github.com/mroman42/walters/blob/main/publications/1981-sheaves-and-cauchy-complete-categories.pdf)|Cahiers de topologie et géométrie différentielle catégoriques|1981|
 |[The Symmetry of the Cauchy-Completion of a Category](https://github.com/mroman42/walters/blob/main/publications/1981-the-symmetry-of-the-cauchy-completion-of-a-category.pdf)|Springer Lecture Notes in Mathematics, vol. 962|1981|
 |[Sheaves on Sites as Cauchy-Complete Categories](https://github.com/mroman42/walters/blob/main/publications/1982-sheaves-on-sites-as-cauchy-complete-categories.pdf)|Journal of Pure and Applied Algebra|1982|
 |[Closed Bicategories and Variable Category Theory](https://github.com/mroman42/walters/blob/main/publications/1985-closed-bicategories-and-variable-category-theory-2020-tac-reprint.pdf)|Reprints in Theory and Applications of Categories (2020)|1985|
+|[On the Nerve of an n-category](https://github.com/mroman42/walters/blob/main/publications/1987-on-the-nerve-of-an-n-category.pdf)|Cahiers de topologie et géométrie différentielle catégoriques|1987|
 |[On Completeness of Locally Internal Categories](https://github.com/mroman42/walters/blob/main/publications/1983-on-completeness-of-locally-internal-categories.pdf)|Journal of Pure and Applied Algebra|1987|
 |[Cartesian Bicategories I](https://github.com/mroman42/walters/blob/main/publications/1987-cartesian-bicategories-i.pdf)|Journal of Pure and Applied Algebra|1987|
 |[An Axiomatics for Bicategories of Modules](https://github.com/mroman42/walters/blob/main/publications/1985-an-axiomatics-for-bicategories-of-modules.pdf)|Journal of Pure and Applied Algebra|1987|
@@ -20,12 +22,17 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[Data Types in Distributive Categories](https://github.com/mroman42/walters/blob/main/publications/1989-data-types-in-distributive-categories.pdf)|Bull. Austral. Math. Soc.|1989|
 |[The Calculus of Ends over a Base Topos](https://github.com/mroman42/walters/blob/main/publications/1989-the-calculus-of-ends-over-a-base-topos.pdf)|Journal of Pure and Applied Algebra|1989|
 |[The Duality Between Flow Charts and Circuits](https://github.com/mroman42/walters/blob/main/publications/1990-the-duality-between-flow-chartes-and-circuits.pdf)|Bull. Austral. Math. Soc.|1990|
+|[Computing quotients of actions of a free category](https://github.com/mroman42/walters/blob/main/publications/1990-computing-quotients-of-actions-of-a-free-category.pdf)|Proceedings of CT 1990|1990|
 |[Algebra Objects and Algebra Families for Finite Limit Theories](https://github.com/mroman42/walters/blob/main/publications/1990-algebra-objects-and-algebra-families-for-finite-limit-theories.pdf)|Journal of Pure and Applied Algebra|1992|
 |[An Imperative Language Based on Distributive Categories](https://github.com/mroman42/walters/blob/main/publications/1992-an-imperative-language-based-on-distributive-categories.pdf)|Math. Struct. in Comp. Science|1992|
 |[Categories and Computer Science](https://github.com/mroman42/walters/blob/main/publications/1992-categories-and-computer-science.pdf)|Cambridge University Press|1992|
 |[Introduction to Extensive and Distributive Categories](https://github.com/mroman42/walters/blob/main/publications/1993-introduction-to-extensive-and-distributive-categories.pdf)|Journal of Pure and Applied Algebra|1993|
+|[An Imperative Language Based on Distributive Categories II](https://github.com/mroman42/walters/blob/main/publications/1993-an-imperative-language-based-on-distributive-categories-ii.pdf)|Theoretical Informatics and Applications|1993|
+|[Representations of modules and Cauchy completeness](https://github.com/mroman42/walters/blob/main/publications/1994-representations-of-modules-and-cauchy-completeness.pdf)|Cahiers de topologie et géométrie différentielle catégoriques|1994|
 |[Fix-Point Semantics for Programs in Distributive Categories](https://github.com/mroman42/walters/blob/main/publications/1995-fix-point-semantics-for-programs-in-distributive-categories.pdf)|Fundamentica Informaticae|1995|
 |[The Todd-Coxeter Procedure and Left Kan Extension](https://github.com/mroman42/walters/blob/main/publications/1991-the-todd-coxeter-procedure-and-left-kan-extensions.pdf)|J. Symbolic Computation|1995|
+|[A note on recursive functions](https://github.com/mroman42/walters/blob/main/publications/1996-a-note-on-recursive-functions.pdf)|Math. Struct. in Comp. Science|1996|
+|[Matrices, machines, and behaviors](https://github.com/mroman42/walters/blob/main/publications/1996-matrices-machines-and-behaviours.pdf)|Applied Categorical Structures|1996|
 |[Bicategories of Processes](https://github.com/mroman42/walters/blob/main/publications/1995-bicategories-of-processes.pdf)|Journal of Pure and Applied Algebra|1997|
 |[Representing Place-Transition Nets in Span(Graph)](https://github.com/mroman42/walters/blob/main/publications/1997-representing-place-transition-nets-in-span-graph.pdf)|Journal of Pure and Applied Algebra|1997|
 |[Span(Graph): A Categorical Algebra of Transition Systems](https://github.com/mroman42/walters/blob/main/publications/1997-span-graph-a-categorical-algebra-of-transition-systems.pdf)|Algebraic Methodology and Software|1997|
