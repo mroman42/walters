@@ -7,6 +7,7 @@ Please inform us of any inaccuracies or missing works by either email or opening
 | Title |Source| Year |
 |:------|:-----|:----:|
 |[Alternative Derivation of Some Regular Continued Fractions](https://github.com/mroman42/walters/blob/main/publications/1968-alternative-derivation-of-some-regular-continued-fractions.pdf)|Journal of the Australian Mathematical Society|1968|
+|[Some properties of the continued fraction expansion of $(m/n)e^{1/q}$](https://github.com/mroman42/walters/blob/main/publications/1970-some-properties-of-the-continued-fraction-expansion.pdf)|Proc. Camb. Phil. Soc.|1969|
 |[A Categorical Approach to Universal Algebra (PhD Thesis)](https://github.com/mroman42/walters/blob/main/publications/1970-a-categorical-approach-to-universal-algebra.pdf)|Australian National University|1970|
 |[Yoneda Structures on 2-categories](https://github.com/mroman42/walters/blob/main/publications/1978-yoneda-structures-on-2-categories.pdf)|Journal of Algebra|1978|
 |[Sheaves and Cauchy-Complete Categories](https://github.com/mroman42/walters/blob/main/publications/1981-sheaves-and-cauchy-complete-categories.pdf)|Cahiers de topologie et géométrie différentielle catégoriques|1981|
