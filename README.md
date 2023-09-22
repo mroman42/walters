@@ -52,6 +52,7 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[The Compositional Construction of Markov Processes](https://github.com/mroman42/walters/blob/main/publications/2009-the-compositional-construction-of-markov-processes.pdf)|Preprint|2009|
 |[An Algebra of Automata which Includes Both Classical and Quantum Entities](https://github.com/mroman42/walters/blob/main/publications/2009-an-algebra-of-automata-which-includes-both-classical-and-quantum-entities.pdf)|Preprint|2009|
 |[The Parallel Composition of Processes](https://github.com/mroman42/walters/blob/main/publications/2009-the-parallel-composition-of-processes.pdf)|Preprint|2009|
+|[A Process Algebra for the Span(Graph) Model of Concurrency](https://github.com/mroman42/walters/blob/main/publications/2009-a-process-algebra-for-the-span-graph-model-of-concurrency.pdf)|Preprint|2009|
 |[The Compositional Construction of Markov Processes II](https://github.com/mroman42/walters/blob/main/publications/2018-the-compositional-construction-of-markov-processes-ii.pdf)|Preprint|2010|
 |[Bicategories of Spans as Cartesian Bicategories](https://github.com/mroman42/walters/blob/main/publications/2010-bicategories-of-spans-as-cartesian-bicategories.pdf)|Preprint|2010|
 |[Tangled Circuits](https://github.com/mroman42/walters/blob/main/publications/2011-tangled-circuits.pdf)|Preprint|2011|
