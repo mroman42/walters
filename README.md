@@ -6,7 +6,7 @@ Please inform us of any inaccuracies or missing works by either email or opening
 
 | Title |Source| Year |
 |:------|:-----|:----:|
-|[Some topics in the theory of diophantine approximation](https://github.com/mroman42/walters/blob/main/publications/1967-some-topics-in-the-theory-of-diophantine-approximation.pdf)|MSc thesis, University of Queensland|1967|
+|[Some Topics in the Theory of Diophantine Approximation](https://github.com/mroman42/walters/blob/main/publications/1967-some-topics-in-the-theory-of-diophantine-approximation.pdf)|MSc thesis, University of Queensland|1967|
 |[Alternative Derivation of Some Regular Continued Fractions](https://github.com/mroman42/walters/blob/main/publications/1968-alternative-derivation-of-some-regular-continued-fractions.pdf)|Journal of the Australian Mathematical Society|1968|
 |[Some properties of the continued fraction expansion of $(m/n)e^{1/q}$](https://github.com/mroman42/walters/blob/main/publications/1970-some-properties-of-the-continued-fraction-expansion.pdf)|Proc. Camb. Phil. Soc.|1969|
 |[An Alternative Approach to Universal Algebra](https://github.com/mroman42/walters/blob/main/publications/1969-an-alternative-approach-to-universal-algebra.pdf)|Reports of the Midwest Category Theory Seminar III|1969|
@@ -33,7 +33,7 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[Categories and Computer Science](https://github.com/mroman42/walters/blob/main/publications/1992-categories-and-computer-science.pdf)|Cambridge University Press|1992|
 |[An Automata Theoretic Approach to Concurrency Through Distributive Categories: On Morphisms](https://github.com/mroman42/walters/blob/main/publications/1993-an-automata-theoretic-approach-to-concurrency-through-distributive-categories-on-morphisms.pdf)|with Nicoletta Sabadini and Sebastiano Vigna. Mathematics Report 93-8, Sydney University|1993|
 |[Coinverters and categories of fractions for categories with structure](https://github.com/mroman42/walters/blob/main/publications/1993-coinverters-and-categories-of-fractions-for-categories-with-structure.pdf)|with G.M. Kelly and Stephen Lack|1993|
-|[Introduction to Extensive and Distributive Categories](https://github.com/mroman42/walters/blob/main/publications/1993-introduction-to-extensive-and-distributive-categories.pdf)|Journal of Pure and Applied Algebra|1993|
+|[Introduction to Extensive and Distributive Categories](https://github.com/mroman42/walters/blob/main/publications/1993-introduction-to-extensive-and-distributive-categories.pdf)|with A. Carboni and S. Lack. Journal of Pure and Applied Algebra|1993|
 |[An Imperative Language Based on Distributive Categories II](https://github.com/mroman42/walters/blob/main/publications/1993-an-imperative-language-based-on-distributive-categories-ii.pdf)|Theoretical Informatics and Applications|1993|
 |[Representations of modules and Cauchy completeness](https://github.com/mroman42/walters/blob/main/publications/1994-representations-of-modules-and-cauchy-completeness.pdf)|Cahiers de topologie et géométrie différentielle catégoriques|1994|
 |[A notion of refinement for automata](https://github.com/mroman42/walters/blob/main/publications/1994-a-notion-of-refinement-for-automata.pdf)|with N. Sabadini and S. Vigna. Preprint|1994|
