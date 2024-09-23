@@ -71,7 +71,7 @@ Please inform us of any inaccuracies or missing works by either email or opening
 |[The Parallel Composition of Processes](https://github.com/mroman42/walters/blob/main/publications/2009-the-parallel-composition-of-processes.pdf)|with L. de Francesco Albasini and N. Sabadini. Preprint|2009|
 |[A Process Algebra for the Span(Graph) Model of Concurrency](https://github.com/mroman42/walters/blob/main/publications/2009-a-process-algebra-for-the-span-graph-model-of-concurrency.pdf)|with Piergiulio Katis and Nicoletta Sabadini. Preprint|2009|
 |[The Compositional Construction of Markov Processes II](https://github.com/mroman42/walters/blob/main/publications/2018-the-compositional-construction-of-markov-processes-ii.pdf)|with L. de Francesco Albasini and Nicoletta Sabadini. Preprint|2010|
-|[Bicategories of Spans as Cartesian Bicategories](https://github.com/mroman42/walters/blob/main/publications/2010-bicategories-of-spans-as-cartesian-bicategories.pdf)|with Stephen Lack and Richard Wood. Preprint|2010|
+|[Bicategories of Spans as Cartesian Bicategories](https://github.com/mroman42/walters/blob/main/publications/2010-bicategories-of-spans-as-cartesian-bicategories.pdf)|with Stephen Lack and Richard Wood. Theory and Applications of Categories|2010|
 |[Tangled Circuits](https://github.com/mroman42/walters/blob/main/publications/2011-tangled-circuits.pdf)|with Robert Rosebrugh and Nicoletta Sabadini. Preprint|2011|
 |算数からはじめよう！　数論  ("Number Theory")|[Iwanami Shoten](https://www.iwanami.co.jp/book/b263071.html)|2011|
 |[The Algebra and Geometry of Networks](https://github.com/mroman42/walters/blob/main/publications/2012-the-algebra-and-geometry-of-networks-abstract.pdf)|with Davide Maglia, Nicoletta Sabadini and Filippo Schiavio. Abstract|2012|
